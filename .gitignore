@@ -1,4 +1,7 @@
-core.Microsoft*
+*.sqlite3
+*.pyc
+__pycache__
+ore.Microsoft*
 core.mongo*
 core.python*
 env.py
